@@ -1,10 +1,12 @@
 # HR Dashboard Analytics
 
-🌐 Live Dashboard: [hrdashboardanalytics.netlify.app](https://hrdashboardanalytics.netlify.app/)
+🌐 Live Interaction: [hrdashboardanalytics.netlify.app](https://hrdashboardanalytics.netlify.app/)
 
 ![DashBoard](./Doc/HR_Management_Dashbaord_pages-1.jpg)
 
+![DashBoard](./Doc/HR_Management_Dashbaord_pages-2.jpg)
 
+![DashBoard](./Doc/HR_Management_Dashbaord_pages-3.jpg)
 Overview
 HR Dashboard Analytics is an interactive and insightful dashboard created using Power BI. It provides HR professionals with a comprehensive view of workforce metrics, including employee demographics, performance trends, and retention analytics.
 
