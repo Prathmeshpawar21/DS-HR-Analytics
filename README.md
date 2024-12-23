@@ -42,8 +42,4 @@ The **HR Analytics Dashboard** project aims to analyze and visualize HR-related 
 
 ## License 📜
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-green.svg)](https://choosealicense.com/licenses/mit/)
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
