@@ -8,11 +8,12 @@ The **HR Analytics Dashboard** project aims to analyze and visualize HR-related 
 
 ## Screenshots
 
+
+![HR Analytics Dashboard](https://raw.githubusercontent.com/Prathmeshpawar21/DS-HR-Analytics/refs/heads/main/Files/Doc/image.png)
+
 ![HR Analytics Dashboard](https://raw.githubusercontent.com/Prathmeshpawar21/DS-HR-Analytics/refs/heads/main/Files/Doc/image%20(1).png)
 
 ![HR Analytics Dashboard](https://raw.githubusercontent.com/Prathmeshpawar21/DS-HR-Analytics/refs/heads/main/Files/Doc/image%20(2).png)
-
-![HR Analytics Dashboard](https://raw.githubusercontent.com/Prathmeshpawar21/DS-HR-Analytics/refs/heads/main/Files/Doc/image.png)
 
 
 ## Features 🎯
